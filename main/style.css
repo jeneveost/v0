@@ -1,6 +1,55 @@
-.img {
+.div-background {
 
-    height: 250px;
-    width: 50px;
+    width: 800px;
+}
 
+.div-garen {
+    position: absolute;
+    top: 750px;
+    left: 120px;
+    width: 220px;
+    height: 360px;
+
+}
+
+
+.div-princess {
+    position: absolute;
+    width: 240px;
+    height: 380px;
+    top: 715px;
+    left: 30px;
+
+}
+
+.img-background {
+    display: block;
+    margin: auto;
+
+}
+
+.img-garen {
+    display: inline-block;
+    margin: auto;
+}
+
+.img-princess{
+    display: inline-block;
+    margin: auto;
+}
+.tapzone {
+    position: absolute;
+    left: -100px;
+    top: 750px;
+}
+
+.bable {
+    position: absolute;
+    top: 500px;
+    left: 150px;
+}
+.weapon {
+    position: absolute;
+    top: 650px;
+    left: 280px;
 }
