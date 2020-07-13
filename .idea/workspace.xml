@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="859bf1c9-1fbd-4742-899a-5ec13cdcb3bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/style.css" afterDir="false" />
     </list>
@@ -25,6 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/v0/main/index.html" useBuiltInWebServerPort="true">
@@ -47,11 +49,28 @@
       <option name="presentableId" value="Default" />
       <updated>1594055142244</updated>
       <workItem from="1594055144498" duration="14330000" />
-      <workItem from="1594093490700" duration="6950000" />
+      <workItem from="1594093490700" duration="7146000" />
+      <workItem from="1594143135151" duration="9490000" />
+      <workItem from="1594225626280" duration="3878000" />
+      <workItem from="1594570462555" duration="1349000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1594230464214">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1594230464214" />
+    <state x="221" y="0" key="SettingsEditor" timestamp="1594570590841">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594570590841" />
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594235573871">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1594235573871" />
   </component>
 </project>

@@ -54,3 +54,61 @@
     top: 650px;
     left: 280px;
 }
+
+/* кнопка мерцает настройки кнопки*/
+button {
+    border: 1px;
+    background: transparent;
+    background-image: url('../img/_.png');
+    width: 874px;
+    height: 511px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:gray;
+    animation: radial-pulse 10s infinite;
+    position: absolute;
+    left: -10px;
+    top: 700px;
+    color: red;
+
+
+}
+/*тап зона анимация */
+.blink {
+    animation-name: blinker;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 1ms;
+    -webkit-animation-name: blinker;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-duration: 1000ms;
+}
+/*тап зона анимация */
+@keyframes blinker {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+/*тап зона анимация */
+@-webkit-keyframes blinker {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+
+/*поинтер который исчезает*/
+#pointer {
+    position: absolute;
+    top: 500px;
+    left: 150px;
+    background-image: url("../img/bable.png");
+    width: 509px;
+    height: 187px;
+    border: 5px solid;
+    border-color: red;
+
+
+}
+

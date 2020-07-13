@@ -1,11 +1,6 @@
-/*
-const firstEl = document.getElementById("bable");
-console.log(firstEl);
-*/
-let counter = 0;
-// сколько раз нажата тап зона
-function tapZone() {
-    counter++;
-    const tap = document.getElementById("tap");
+$("#elem").show('slow');
+setTimeout(function() { $("#elem").hide('slow'); }, 5000);
 
-}
+
+$("#pointer").show('slow');
+setTimeout(function() { $("#pointer").hide('slow'); }, 5000);
